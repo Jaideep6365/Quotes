@@ -95,3 +95,8 @@ body{
     background:transparent;
     color: #333;
 }
+@media screen and (max-width:400px){
+    .quote-box{
+        width: 300px;
+    }
+}
